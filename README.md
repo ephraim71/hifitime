@@ -4,6 +4,9 @@ Hifitime is a powerful Rust and Python library designed for time management. It 
 
 Most users of Hifitime will only need to rely on the `Epoch` and `Duration` structures, and optionally the `Weekday` enum for week based computations. Scientific applications may make use of the `TimeScale` enum as well.
 
+
+
+
 ## Usage
 
 First, install `hifitime` either with `cargo add hifitime` in your Rust project or `pip install hifitime` in Python.
